@@ -59,10 +59,10 @@
 				</Properties>
 			</Attribute>
 			<Form>Форма</Form>
-			<Template>СчФ_Типовой</Template>
 			<Template>СчФ_Типовой981</Template>
 			<Template>СчФ_Типовой584</Template>
 			<Template>СчФ_Типовой584Прослеж</Template>
+			<Template>СчФ_584_Адаптированный</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
