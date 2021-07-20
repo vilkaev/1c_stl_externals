@@ -28,7 +28,7 @@
 	<Attributes>
 		<Attribute name="Объект" id="1">
 			<Type>
-				<v8:Type>cfg:ExternalDataProcessorObject.АКТ_НОВЫЙ</v8:Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.АКТ</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<Save>

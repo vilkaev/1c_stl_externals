@@ -3927,7 +3927,7 @@
 	<format>
 		<font>0</font>
 		<border>0</border>
-		<horizontalAlignment>Center</horizontalAlignment>
+		<horizontalAlignment>Left</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
 		<textPlacement>Wrap</textPlacement>
 		<fillType>Parameter</fillType>

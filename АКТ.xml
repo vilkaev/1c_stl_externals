@@ -6,21 +6,21 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>3de93112-64e6-4386-926b-1e14d297c3b2</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.АКТ_НОВЫЙ" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.АКТ" category="Object">
 				<xr:TypeId>764e35b5-2850-45ee-a77c-e9c2d54a14b8</xr:TypeId>
 				<xr:ValueId>0f71fc30-d2d2-4d5b-91de-cfa354d54373</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>АКТ_НОВЫЙ</Name>
+			<Name>АКТ</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>АКТ НОВЫЙ</v8:content>
+					<v8:content>АКТ</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment>7</Comment>
-			<DefaultForm>ExternalDataProcessor.АКТ_НОВЫЙ.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.АКТ.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>

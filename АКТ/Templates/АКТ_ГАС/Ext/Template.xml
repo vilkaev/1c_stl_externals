@@ -1098,7 +1098,7 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Генеральный директор Габдрахманов Р.Р.</v8:content>
+							<v8:content>[ДолжностьПредставителяЗаказчика] [ПредставительЗаказчика]</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1567,6 +1567,7 @@
 		<height>105</height>
 		<width>90</width>
 		<textPlacement>Wrap</textPlacement>
+		<fillType>Template</fillType>
 	</format>
 	<format>
 		<height>78</height>
