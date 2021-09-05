@@ -6,21 +6,21 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>3de93112-64e6-4386-926b-1e14d297c3b2</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.АКТ" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.СЧЕТ_УПР" category="Object">
 				<xr:TypeId>764e35b5-2850-45ee-a77c-e9c2d54a14b8</xr:TypeId>
 				<xr:ValueId>0f71fc30-d2d2-4d5b-91de-cfa354d54373</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>АКТ</Name>
+			<Name>СЧЕТ_УПР</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>АКТ</v8:content>
+					<v8:content>СЧЕТ УПР</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>7</Comment>
-			<DefaultForm>ExternalDataProcessor.АКТ.Form.Форма</DefaultForm>
+			<Comment>6</Comment>
+			<DefaultForm>ExternalDataProcessor.СЧЕТ_УПР.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
@@ -59,17 +59,7 @@
 				</Properties>
 			</Attribute>
 			<Form>Форма</Form>
-			<Template>АКТ_Типовой</Template>
-			<Template>Акт_Русвинил</Template>
-			<Template>АктСибур</Template>
-			<Template>АКТ_КимберлиКларк</Template>
-			<Template>АКТ_Полипластик</Template>
-			<Template>Акт_КокаКола</Template>
-			<Template>АКТ_Спортмастер</Template>
-			<Template>АКТ_Бунге</Template>
-			<Template>АКТ_ГрузоПеревозки</Template>
-			<Template>АКТ_ГАС</Template>
-			<Template>АКТ_СТМ_Сервис</Template>
+			<Template>Счет_Типовой</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
